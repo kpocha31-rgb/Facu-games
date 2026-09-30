@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Facu Games",
+  "short_name": "Facu Games",
+  "description": "Juegos para boludear con estilo.",
+  "lang": "es-AR",
+  "start_url": "./FacuGames.html?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#060a10",
+  "theme_color": "#071a28",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
